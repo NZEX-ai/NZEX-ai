@@ -6,8 +6,13 @@
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-11101b?style=flat-square\&logo=github\&logoColor=e8e3f5)](https://github.com/)
-[![Roblox](https://img.shields.io/badge/Roblox-11101b?style=flat-square\&logo=roblox\&logoColor=e8e3f5)]([https://www.roblox.com/](https://www.roblox.com/th/users/2734197448/profile))
+<a href="https://github.com/">
+<img src="https://img.shields.io/badge/GitHub-11101b?style=flat-square&logo=github&logoColor=e8e3f5"/>
+</a>
+
+<a href="https://www.roblox.com/th/users/2734197448/profile">
+<img src="https://img.shields.io/badge/Roblox-11101b?style=flat-square&logo=roblox&logoColor=e8e3f5"/>
+</a>
 
 </div>
 
@@ -19,20 +24,19 @@
 name: ZEN
 role: Developer & Creator
 
-interests:
+focus:
   - Roblox Development
   - UI / UX
   - VFX & Animation
   - Artificial Intelligence
-  - Creative Technology
 
 currently:
-  learning: "new things"
-  building: "new ideas"
-  improving: "every day"
+  learning: new things
+  building: new ideas
+  improving: every day
 ```
 
-I like creating things that feel **simple, polished, and different**.
+I enjoy creating things that feel **simple, polished, and different**.
 
 From Roblox experiences and visual effects to experimental AI projects,
 I'm always looking for something new to build.
@@ -51,6 +55,7 @@ Game systems, gameplay mechanics, UI,
 animations and visual effects.
 
 </td>
+
 <td width="50%">
 
 ### ✦ Creative
@@ -70,12 +75,13 @@ Exploring computer vision and
 real-world AI applications.
 
 </td>
+
 <td width="50%">
 
 ### 💻 Development
 
-Building with Python, Lua/Luau,
-C# and modern development tools.
+Building with Python, Luau,
+and modern development tools.
 
 </td>
 </tr>
@@ -87,19 +93,13 @@ C# and modern development tools.
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-11101b?style=for-the-badge\&logo=python\&logoColor=c4a7e7)
-![Lua](https://img.shields.io/badge/Luau-11101b?style=for-the-badge\&logo=lua\&logoColor=c4a7e7)
-![Roblox](https://img.shields.io/badge/Roblox-11101b?style=for-the-badge\&logo=roblox\&logoColor=c4a7e7)
-![Git](https://img.shields.io/badge/Git-11101b?style=for-the-badge\&logo=git\&logoColor=c4a7e7)
-![GitHub](https://img.shields.io/badge/GitHub-11101b?style=for-the-badge\&logo=github\&logoColor=c4a7e7)
+<img src="https://img.shields.io/badge/Python-11101b?style=for-the-badge&logo=python&logoColor=c4a7e7"/>
+<img src="https://img.shields.io/badge/Luau-11101b?style=for-the-badge&logo=lua&logoColor=c4a7e7"/>
+<img src="https://img.shields.io/badge/Roblox-11101b?style=for-the-badge&logo=roblox&logoColor=c4a7e7"/>
+<img src="https://img.shields.io/badge/Git-11101b?style=for-the-badge&logo=git&logoColor=c4a7e7"/>
+<img src="https://img.shields.io/badge/GitHub-11101b?style=for-the-badge&logo=github&logoColor=c4a7e7"/>
 
 </div>
-
----
-
-```
-
-`Python` · `Computer Vision` · `Raspberry Pi` · `AI`
 
 ---
 
@@ -111,8 +111,8 @@ C# and modern development tools.
 
 <br>
 
-> **"Good design is invisible.
-> Great experiences are unforgettable."**
+> **"Good design is invisible.**
+> **Great experiences are unforgettable."**
 
 </div>
 
@@ -132,7 +132,7 @@ C# and modern development tools.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=11101b&color=e8e3f5&line=c4a7e7&point=e8e3f5&area=true&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NZEX-ai&bg_color=11101b&color=e8e3f5&line=c4a7e7&point=e8e3f5&area=true&hide_border=true"/>
 
 </div>
 
