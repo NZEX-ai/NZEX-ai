@@ -7,7 +7,7 @@
 <br>
 
 [![GitHub](https://img.shields.io/badge/GitHub-11101b?style=flat-square\&logo=github\&logoColor=e8e3f5)](https://github.com/)
-[![Roblox](https://img.shields.io/badge/Roblox-11101b?style=flat-square\&logo=roblox\&logoColor=e8e3f5)](https://www.roblox.com/)
+[![Roblox](https://img.shields.io/badge/Roblox-11101b?style=flat-square\&logo=roblox\&logoColor=e8e3f5)]([https://www.roblox.com/](https://www.roblox.com/th/users/2734197448/profile))
 
 </div>
 
@@ -89,7 +89,6 @@ C# and modern development tools.
 
 ![Python](https://img.shields.io/badge/Python-11101b?style=for-the-badge\&logo=python\&logoColor=c4a7e7)
 ![Lua](https://img.shields.io/badge/Luau-11101b?style=for-the-badge\&logo=lua\&logoColor=c4a7e7)
-![CSharp](https://img.shields.io/badge/C%23-11101b?style=for-the-badge\&logo=csharp\&logoColor=c4a7e7)
 ![Roblox](https://img.shields.io/badge/Roblox-11101b?style=for-the-badge\&logo=roblox\&logoColor=c4a7e7)
 ![Git](https://img.shields.io/badge/Git-11101b?style=for-the-badge\&logo=git\&logoColor=c4a7e7)
 ![GitHub](https://img.shields.io/badge/GitHub-11101b?style=for-the-badge\&logo=github\&logoColor=c4a7e7)
@@ -98,36 +97,13 @@ C# and modern development tools.
 
 ---
 
-## `04 — featured`
-
-### VISIO-SAFE
-
-> An offline AI vision assistant designed to help people navigate their surroundings more safely.
-
-```text
-        CAMERA
-           │
-           ▼
-      LOCAL AI
-           │
-           ▼
-   OBJECT DETECTION
-           │
-           ▼
-    DISTANCE SENSOR
-           │
-           ▼
-    SAFETY DECISION
-           │
-           ▼
-      VOICE ALERT
 ```
 
 `Python` · `Computer Vision` · `Raspberry Pi` · `AI`
 
 ---
 
-## `05 — philosophy`
+## `04 — philosophy`
 
 <div align="center">
 
@@ -142,7 +118,7 @@ C# and modern development tools.
 
 ---
 
-## `06 — github`
+## `05 — github`
 
 <div align="center">
 
