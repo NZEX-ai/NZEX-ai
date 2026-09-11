@@ -34,8 +34,6 @@ I enjoy turning ideas into **interactive experiences**, experimenting with visua
 🎮  Roblox Development
 🎨  UI / UX & Visual Design
 ✨  VFX & Animation
-🤖  AI / Computer Vision
-💻  Python / C++ / C#
 ```
 
 ---
@@ -55,27 +53,7 @@ I enjoy turning ideas into **interactive experiences**, experimenting with visua
 
 ---
 
-## `featured project`
 
-### VISIO-SAFE
-
-> Offline AI vision assistance designed to help visually impaired people navigate their surroundings.
-
-```text
-Camera
-   ↓
-Local AI
-   ↓
-Object Detection
-   ↓
-Distance Sensor
-   ↓
-Decision System
-   ↓
-Thai Voice Alert
-```
-
-**Built with:** `Python` · `C/C++` · `Computer Vision` · `Raspberry Pi`
 
 ---
 
