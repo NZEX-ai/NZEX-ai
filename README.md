@@ -122,9 +122,9 @@ and modern development tools.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=11101b&title_color=c4a7e7&icon_color=c4a7e7&text_color=e8e3f5&include_all_commits=true&count_private=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=nzex-ai&show_icons=true&hide_border=true&bg_color=11101b&title_color=c4a7e7&icon_color=c4a7e7&text_color=e8e3f5&include_all_commits=true&count_private=true"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=11101b&title_color=c4a7e7&text_color=e8e3f5"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nzex-ai&layout=compact&hide_border=true&bg_color=11101b&title_color=c4a7e7&text_color=e8e3f5"/>
 
 </div>
 
